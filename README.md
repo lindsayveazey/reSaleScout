@@ -3,6 +3,8 @@ Reselling made easier.
 
 In this folder you will find notebooks, .py scripts, and supporting files used to run my application, reSaleScout, which uses historical sale data from two auction websites to predict where sellers will make a higher profit based on the type, brand, and condition of their women's clothing item.
 
+Play around at: www.resale.fun
+
 Below, an overview of the contents of this repository:
 
 ### eBay_scraper.ipynb, poshmark_scraper.ipynb
