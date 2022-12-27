@@ -1,5 +1,5 @@
 # reSaleScout
-Reselling made easier.
+Forecasting auction sale prices on different websites using random forest regression 
 
 In this folder you will find notebooks, .py scripts, and supporting files used to run my application, reSaleScout, which uses historical sale data from two auction websites to predict where sellers will make a higher profit based on the type, brand, and condition of their women's clothing item.
 
